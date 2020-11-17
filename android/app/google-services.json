@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "169554879203",
+    "firebase_url": "https://afterschool-e2193.firebaseio.com",
+    "project_id": "afterschool-e2193",
+    "storage_bucket": "afterschool-e2193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169554879203:android:2b94294bc3d740bbf31bd6",
+        "android_client_info": {
+          "package_name": "com.marcosemp.hs_afterschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169554879203-m95k13q9hs9j4rcb4n9l9j6sgf9sms9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marcosemp.hs_afterschool",
+            "certificate_hash": "2f8ddcaabce30f5be1680449fe93d83691a5d7a9"
+          }
+        },
+        {
+          "client_id": "169554879203-3uj61eaos43nhq4f2qc9tdeesieu7qbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfHVrHzekJjtECzzAlcdR03WwX9CpOcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169554879203-3uj61eaos43nhq4f2qc9tdeesieu7qbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
